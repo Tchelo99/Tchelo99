@@ -38,8 +38,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,vscode,powerbi,excel,openai,tensorflow,scikit,keras,opencv,pandas,numpy,transformers,langchain,aws,azure,docker,git,github,ubuntu" />
-    <img src="https://skillicons.dev/icons?i=jupyter,pytorch,huggingface,fastapi,matplotlib,seaborn,plotly,dvc,comet,redis" /><br>
+    <img src="https://skillicons.dev/icons?i=python,vscode,tensorflow,opencv,pandas,numpy,transformers,langchain,aws,azure,docker,git,github,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=jupyter,pytorch,huggingface,fastapi,matplotlib,seaborn,plotly,redis" /><br>
 </div>
 
 <br/>
