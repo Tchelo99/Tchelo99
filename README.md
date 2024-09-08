@@ -22,7 +22,7 @@
 </div>
 
 <div align="center"> 
-  <a href="mailto:oussama.email@gmail.com">
+  <a href="mailto:oussamaayad.ds@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/oussama" target="_blank">
@@ -36,10 +36,15 @@
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,vscode,tensorflow,opencv,pandas,numpy,transformers,langchain,aws,azure,docker,git,github,ubuntu" />
-    <img src="https://skillicons.dev/icons?i=jupyter,pytorch,huggingface,fastapi,matplotlib,seaborn,plotly,redis" /><br>
+  <!-- First line of icons -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=python,vscode,tensorflow,opencv,pandas,numpy,transformers,langchain,aws,azure" />
+  </div>
+  <!-- Second line of icons -->
+  <div>
+    <img src="https://skillicons.dev/icons?i=docker,git,github,ubuntu,jupyter,pytorch,huggingface,fastapi,matplotlib,seaborn,plotly,redis" />
+  </div>
 </div>
 
 <br/>
