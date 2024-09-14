@@ -28,7 +28,7 @@
   <a href="https://linkedin.com/in/oussama" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://tchelo99.github.io/My-Portfolio/" target="_blank">
+  <a href="https://tchelo99.github.io/Ayad-Oussama-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portfolio&logoColor=white" /> <!-- portfolio icon -->
   </a>
 </div>
