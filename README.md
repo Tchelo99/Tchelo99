@@ -11,11 +11,11 @@
 
 <div align="center">
  
- 🔭 I’m a Junior Machine Learning Engineer specialized in **NLP, Computer Vision, and LLMs**, with a passion for AI applications in real-world problems.
- 
- 🌱 I’m currently learning **Docker** and exploring cloud services like **AWS, Google Cloud, and Azure** for machine learning engineering.
+ 🔭 I’m a Machine Learning Engineer specialized in NLP, Computer Vision, and LLMs, passionate about building scalable AI applications for real-world problems.
 
-💬 Ask me about machine learning, deep learning, NLP, computer vision, LLMs, or anything AI-related [here](https://github.com/Tchelo99)**
+🌱 I’ve mastered Docker and currently work with MLOps frameworks like MLflow, Airflow, and Google Cloud to deploy and manage machine learning pipelines at scale.
+
+💬 Ask me about machine learning, deep learning, NLP, computer vision, LLMs, or MLOps best practices [here](https://github.com/Tchelo99)**
 
 ⚡ Fun fact: I once worked on a project to detect if **trash cans** are full using AI and live camera feeds!
 
