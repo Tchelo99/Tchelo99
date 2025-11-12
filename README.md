@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayad+Oussama!;" />
 </h1>
 
-<h3 align="center">🚀 Machine Learning Engineer | MLOps Specialist | AI Innovator 🇩🇿🇩</h3>
+<h3 align="center">🚀 Machine Learning Engineer | Applied AI & Deep Learning Specialist 🇩🇿</h3>
 
 <br/>
 
@@ -34,7 +34,9 @@
 
 ---
 
-## 🧠 Tech Stack
+<h2 align="center">🧠 Tech Stack</h2>
+
+<div align="center">
 
 ### 🗣️ Languages
 | Python | R | SQL |
@@ -65,6 +67,8 @@
 | LangChain | LangGraph | CrewAI |
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/huggingface/huggingface-original.svg" title="LangChain" alt="LangChain" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/Tchelo99/assets/main/icons/langgraph.svg" title="LangGraph" alt="LangGraph" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/Tchelo99/assets/main/icons/crewai.svg" title="CrewAI" alt="CrewAI" width="55" height="55"/> |
+
+</div>
 
 ---
 
