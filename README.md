@@ -8,13 +8,16 @@
 
 <br/>
 
-### 👨‍💻 About Me
+<h3 style="font-size: 20px;">👨‍💻 About Me</h3>
 
+<p style="font-size: 18px; line-height: 1.5;">
 Machine Learning Engineer specializing in MLOps, deep learning, and AI deployment. Experienced in building LLM-powered
 chatbots, recommendation systems, and computer vision solutions using PyTorch, Docker, Airflow, and MLflow. Skilled in
 GPU cloud pipelines, model optimization, and scalable agentic AI workflows for production-grade systems.
-  
-⚡ Fun fact: I once built an AI that detects whether **trash cans are full** using live video feeds!
+<br/><br/>
+⚡ Fun fact: I once built an AI that detects whether <strong>trash cans are full</strong> using live video feeds!
+</p>
+
 
 
 ---
