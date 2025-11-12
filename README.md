@@ -8,9 +8,9 @@
 
 <br/>
 
-<h3 style="font-size: 20px;">👨‍💻 About Me</h3>
+<h3 style="font-size: 30px;">👨‍💻 About Me</h3>
 
-<p style="font-size: 18px; line-height: 1.5;">
+<p style="font-size: 20px; line-height: 1.5;">
 Machine Learning Engineer specializing in MLOps, deep learning, and AI deployment. Experienced in building LLM-powered
 chatbots, recommendation systems, and computer vision solutions using PyTorch, Docker, Airflow, and MLflow. Skilled in
 GPU cloud pipelines, model optimization, and scalable agentic AI workflows for production-grade systems.
