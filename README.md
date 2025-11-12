@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+### 👨‍💻 About Me
 
 🔭 I’m a **Machine Learning Engineer** focused on designing and deploying **AI-powered systems** that combine deep learning, LLMs, and computer vision.  
 🌱 Currently exploring **Agentic AI frameworks** to build autonomous, multi-agent systems for real-world automation.  
@@ -16,7 +16,6 @@
 💬 I love discussing topics around **machine learning**, **LLMs**, **computer vision**, and **AI system design**.  
 ⚡ Fun fact: I once built an AI that detects whether **trash cans are full** using live video feeds!
 
-</div>
 
 ---
 
@@ -34,9 +33,7 @@
 
 ---
 
-<h2 align="center" style="font-size: 36px;">🧠 Tech Stack</h2>
-
-<div align="center">
+### 🧠 Tech Stack
 
 <h3 style="font-size: 24px;">🗣️ Languages</h3>
 
@@ -73,8 +70,6 @@
 | LangChain | LangGraph | CrewAI |
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/huggingface/huggingface-original.svg" title="LangChain" alt="LangChain" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/Tchelo99/assets/main/icons/langgraph.svg" title="LangGraph" alt="LangGraph" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/Tchelo99/assets/main/icons/crewai.svg" title="CrewAI" alt="CrewAI" width="70" height="70"/> |
-
-</div>
 
 ---
 
