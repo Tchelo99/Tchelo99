@@ -14,7 +14,6 @@
 Machine Learning Engineer specializing in MLOps, deep learning, and AI deployment. Experienced in building LLM-powered
 chatbots, recommendation systems, and computer vision solutions using PyTorch, Docker, Airflow, and MLflow. Skilled in
 GPU cloud pipelines, model optimization, and scalable agentic AI workflows for production-grade systems.
-<br/><br/>
 ⚡ Fun fact: I once built an AI that detects whether <strong>trash cans are full</strong> using live video feeds!
 </p>
 
