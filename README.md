@@ -10,10 +10,10 @@
 
 ### 👨‍💻 About Me
 
-🔭 I’m a **Machine Learning Engineer** focused on designing and deploying **AI-powered systems** that combine deep learning, LLMs, and computer vision.  
-🌱 Currently exploring **Agentic AI frameworks** to build autonomous, multi-agent systems for real-world automation.  
-⚙️ Experienced in **MLOps**, from model training to scalable deployment, using tools like MLflow, Airflow, Docker, and GCP AI Platform.  
-💬 I love discussing topics around **machine learning**, **LLMs**, **computer vision**, and **AI system design**.  
+Machine Learning Engineer specializing in MLOps, deep learning, and AI deployment. Experienced in building LLM-powered
+chatbots, recommendation systems, and computer vision solutions using PyTorch, Docker, Airflow, and MLflow. Skilled in
+GPU cloud pipelines, model optimization, and scalable agentic AI workflows for production-grade systems.
+  
 ⚡ Fun fact: I once built an AI that detects whether **trash cans are full** using live video feeds!
 
 
