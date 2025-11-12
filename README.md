@@ -34,39 +34,45 @@
 
 ---
 
-<h2 align="center">🧠 Tech Stack</h2>
+<h2 align="center" style="font-size: 36px;">🧠 Tech Stack</h2>
 
 <div align="center">
 
-### 🗣️ Languages
+<h3 style="font-size: 24px;">🗣️ Languages</h3>
+
 | Python | R | SQL |
 |----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="70" height="70"/> |
 
-### 🧩 Deep Learning Frameworks
+<h3 style="font-size: 24px;">🧩 Deep Learning Frameworks</h3>
+
 | PyTorch | TensorFlow | Keras | Transformers |
 |----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/huggingface/huggingface-original.svg" title="Transformers" alt="Transformers" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/huggingface/huggingface-original.svg" title="Transformers" alt="Transformers" width="70" height="70"/> |
 
-### 🗄️ Databases & Vector Stores
+<h3 style="font-size: 24px;">🗄️ Databases & Vector Stores</h3>
+
 | PostgreSQL | Qdrant |
 |----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Qdrant" alt="Qdrant" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Qdrant" alt="Qdrant" width="70" height="70"/> |
 
-### ⚙️ MLOps Tools
+<h3 style="font-size: 24px;">⚙️ MLOps Tools</h3>
+
 | Airflow | MLflow | GCP | Ollama |
 |----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" alt="Airflow" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mlflow/mlflow-original.svg" title="MLflow" alt="MLflow" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/Tchelo99/assets/main/icons/ollama.svg" title="Ollama" alt="Ollama" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" alt="Airflow" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mlflow/mlflow-original.svg" title="MLflow" alt="MLflow" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/Tchelo99/assets/main/icons/ollama.svg" title="Ollama" alt="Ollama" width="70" height="70"/> |
 
-### 🚀 Deployment
+<h3 style="font-size: 24px;">🚀 Deployment</h3>
+
 | FastAPI | BentoML | Postman | Docker |
 |----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="BentoML" alt="BentoML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="BentoML" alt="BentoML" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="70" height="70"/> |
 
-### 🧠 Agentic AI
+<h3 style="font-size: 24px;">🧠 Agentic AI</h3>
+
 | LangChain | LangGraph | CrewAI |
 |----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/huggingface/huggingface-original.svg" title="LangChain" alt="LangChain" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/Tchelo99/assets/main/icons/langgraph.svg" title="LangGraph" alt="LangGraph" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/Tchelo99/assets/main/icons/crewai.svg" title="CrewAI" alt="CrewAI" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/huggingface/huggingface-original.svg" title="LangChain" alt="LangChain" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/Tchelo99/assets/main/icons/langgraph.svg" title="LangGraph" alt="LangGraph" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/Tchelo99/assets/main/icons/crewai.svg" title="CrewAI" alt="CrewAI" width="70" height="70"/> |
 
 </div>
 
