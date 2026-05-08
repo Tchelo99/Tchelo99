@@ -1,20 +1,22 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tchelo99.Tchelo99" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayad+Oussama!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayad+Oussama!;Full-Stack+AI+Engineer;Agentic+AI+%7C+LLMs+%7C+MLOps;" />
 </h1>
 
-<h3 align="center">🤖 Machine Learning Engineer | MLOps Specialist 🇩🇿</h3>
+<h3 align="center">🤖 Full-Stack AI Engineer · Agentic AI · LLMs · MLOps 🇩🇿</h3>
 
 <br/>
 
 <h3 style="font-size: 30px;">👨‍💻 About Me</h3>
 
 <p style="font-size: 20px; line-height: 1.5;">
-Machine Learning Engineer specializing in MLOps, deep learning, and AI deployment. Experienced in building LLM-powered
-chatbots, recommendation systems, and computer vision solutions using PyTorch, Docker, Airflow, and MLflow. Skilled in
-GPU cloud pipelines, model optimization, and scalable agentic AI workflows for production-grade systems.
+I'm a <strong>Full-Stack AI Engineer</strong> who designs and ships AI agent–powered systems that solve real business problems end-to-end — from data pipelines and model training to production deployment. My work spans <strong>multi-agent LLM chatbots</strong> (LangChain · LangGraph), <strong>RAG systems</strong> over domain-specific knowledge bases, <strong>computer vision pipelines</strong> for retail product recognition (YOLO + SigLIP + Qdrant), and <strong>multi-output recommender systems</strong> orchestrated with Airflow, MLflow, and GCP.
 <br/><br/>
+🚀 I care about turning ML/LLM research into production-grade systems that drive measurable business impact.
+<br/>
+✍️ I write practical guides for AI engineers on <a href="https://medium.com/@oussamaaayad">Medium</a>.
+<br/>
 ⚡ Fun fact: I once built an AI that detects whether <strong>trash cans are full</strong> using live video feeds!
 </p>
 
@@ -29,6 +31,9 @@ GPU cloud pipelines, model optimization, and scalable agentic AI workflows for p
   <a href="https://medium.com/@oussamaaayad" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+  <a href="https://github.com/Tchelo99" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="mailto:oussamaayad.ds@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -41,16 +46,9 @@ GPU cloud pipelines, model optimization, and scalable agentic AI workflows for p
 
 <h3 style="font-size: 24px;">🗣️ Languages</h3>
 
-| Python | R | SQL |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="70" height="70"/> |
-
-<h3 style="font-size: 24px;">🗄️ Databases & Vector Stores</h3>
-
-| PostgreSQL | Qdrant |
+| Python | SQL |
 |----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Qdrant" alt="Qdrant" width="70" height="70"/> |
-
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="70" height="70"/> |
 
 <h3 style="font-size: 24px;">🧩 Deep Learning Frameworks</h3>
 
@@ -58,31 +56,29 @@ GPU cloud pipelines, model optimization, and scalable agentic AI workflows for p
 |----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/huggingface/huggingface-original.svg" title="Transformers" alt="Transformers" width="70" height="70"/> |
 
+<h3 style="font-size: 24px;">🤖 LLM & Agentic AI</h3>
 
-<h3 style="font-size: 24px;">⚙️ MLOps & Deployment Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/vLLM-FF4B4B?style=for-the-badge&logoColor=white" alt="vLLM" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/RAG-2E86AB?style=for-the-badge&logoColor=white" alt="RAG" />
+</p>
 
-| Airflow | MLflow | GCP | Ollama | FastAPI | Postman | Docker |
+<h3 style="font-size: 24px;">👁️ Computer Vision</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/SigLIP-FF6B6B?style=for-the-badge&logoColor=white" alt="SigLIP" />
+  <img src="https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logoColor=white" alt="Ultralytics" />
+</p>
+
+<h3 style="font-size: 24px;">⚙️ MLOps & Deployment</h3>
+
+| Airflow | MLflow | GCP | FastAPI | Docker | Git | Postman |
 |----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" alt="Airflow" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mlflow/mlflow-original.svg" title="MLflow" alt="MLflow" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="70" height="70"/> | <img src="https://raw.githubusercontent.com/Tchelo99/assets/main/icons/ollama.svg" title="Ollama" alt="Ollama" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="70" height="70"/> |
-
-
----
-
-## 🐍 My Contributions
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tchelo99/Tchelo99/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-## ⚡ Stats
-<div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=Tchelo99&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Tchelo99&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tchelo99&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
-</div>
-
----
-
-⭐️ From [Oussama Ayad](https://github.com/Tchelo99)
+| <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" alt="Airflow" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mlflow/mlflow-original.svg" title="MLflow" alt="MLflow" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="70" height="70"/> 
