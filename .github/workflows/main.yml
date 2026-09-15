@@ -42,6 +42,23 @@ jobs:
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Cache the streak card so the README never shows the public instance's
+      # intermittent "Failed to retrieve contributions" error.
+      - name: Fetch streak stats card into './dist/'
+        run: |
+          url="https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=dark&hide_border=false"
+          for attempt in 1 2 3; do
+            if curl -sfL -m 30 "$url" -o streak.svg && grep -q "Total Contributions" streak.svg && ! grep -q "Failed" streak.svg; then
+              mv streak.svg dist/streak-stats.svg
+              break
+            fi
+            sleep 20
+          done
+          # Keep the last good card if every attempt failed
+          if [ ! -f dist/streak-stats.svg ]; then
+            curl -sfL "https://raw.githubusercontent.com/${{ github.repository }}/output/streak-stats.svg" -o dist/streak-stats.svg || true
+          fi
+
       - name: Show build status
         run: git status
 
