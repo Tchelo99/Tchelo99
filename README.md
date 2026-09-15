@@ -41,6 +41,11 @@ I build AI systems that solve real business problems, end to end: from strategy 
 
 <sub>📖 Read more on <a href="https://medium.com/@oussamaaayad">Medium</a></sub>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Tchelo99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Tchelo99&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tchelo99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 # 🐍 Contribution Snake:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tchelo99/Tchelo99/output/github-contribution-grid-snake-dark.svg" />
@@ -48,13 +53,12 @@ I build AI systems that solve real business problems, end to end: from strategy 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tchelo99/Tchelo99/output/github-contribution-grid-snake.svg" />
 </picture>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Tchelo99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Tchelo99&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tchelo99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Quote
+<p align="center">
+  <em>"Innovation distinguishes between a leader and a follower."</em>
+  <br/>
+  <strong>— Steve Jobs</strong>
+</p>
 
 ---
 [![](https://komarev.com/ghpvc/?username=Tchelo99&icon=0&color=0)](https://visitcount.itsvg.in)
