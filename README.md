@@ -54,11 +54,8 @@ I build AI systems that solve real business problems, end to end: from strategy 
 </picture>
 
 ### ✍️ Quote
-<p align="center">
-  <em>"Innovation distinguishes between a leader and a follower."</em>
-  <br/>
-  <strong>— Steve Jobs</strong>
-</p>
+<h1 align="center"><em>"Innovation distinguishes between a leader and a follower."</em></h1>
+<h3 align="center">Steve Jobs</h3>
 
 ---
 [![](https://komarev.com/ghpvc/?username=Tchelo99&icon=0&color=0)](https://visitcount.itsvg.in)
